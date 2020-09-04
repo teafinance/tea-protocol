@@ -1,0 +1,17 @@
+body {
+  background: #fff;
+  margin: 0;
+  font-family: 'futura', 'Nunito', sans-serif;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: "futura";
+  src: url('./assets/font/Futura-Book.otf');
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}

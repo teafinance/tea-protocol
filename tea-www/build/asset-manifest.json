@@ -1,0 +1,39 @@
+{
+  "files": {
+    "static/js/0.6a944f2d.chunk.js": "/static/js/0.6a944f2d.chunk.js",
+    "main.css": "/static/css/main.e97e1768.chunk.css",
+    "main.js": "/static/js/main.ab06350a.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.450c958e.js",
+    "static/js/3.d4f844fa.chunk.js": "/static/js/3.d4f844fa.chunk.js",
+    "static/js/4.84891af2.chunk.js": "/static/js/4.84891af2.chunk.js",
+    "static/js/5.bd418a5a.chunk.js": "/static/js/5.bd418a5a.chunk.js",
+    "static/js/6.0f722e1c.chunk.js": "/static/js/6.0f722e1c.chunk.js",
+    "static/js/7.4af8604a.chunk.js": "/static/js/7.4af8604a.chunk.js",
+    "static/js/8.c550c221.chunk.js": "/static/js/8.c550c221.chunk.js",
+    "static/js/9.fae2ea17.chunk.js": "/static/js/9.fae2ea17.chunk.js",
+    "static/js/10.8ca90e9e.chunk.js": "/static/js/10.8ca90e9e.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.fefab58cb11c618b0f7536540fe01fc3.js": "/precache-manifest.fefab58cb11c618b0f7536540fe01fc3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/3.d4f844fa.chunk.js.LICENSE.txt": "/static/js/3.d4f844fa.chunk.js.LICENSE.txt",
+    "static/js/5.bd418a5a.chunk.js.LICENSE.txt": "/static/js/5.bd418a5a.chunk.js.LICENSE.txt",
+    "static/js/6.0f722e1c.chunk.js.LICENSE.txt": "/static/js/6.0f722e1c.chunk.js.LICENSE.txt",
+    "static/js/7.4af8604a.chunk.js.LICENSE.txt": "/static/js/7.4af8604a.chunk.js.LICENSE.txt",
+    "static/js/8.c550c221.chunk.js.LICENSE.txt": "/static/js/8.c550c221.chunk.js.LICENSE.txt",
+    "static/media/AISI.png": "/static/media/AISI.874c7fa5.png",
+    "static/media/index.css": "/static/media/Futura-Book.fd6e6c30.otf",
+    "static/media/MATH.png": "/static/media/MATH.0dcac515.png",
+    "static/media/SUSHI.png": "/static/media/SUSHI.e70028af.png",
+    "static/media/YCRV.png": "/static/media/YCRV.204c5374.png",
+    "static/media/YFI.png": "/static/media/YFI.e8be27f0.png",
+    "static/media/background.png": "/static/media/background.c2f9cf4c.png",
+    "static/media/tea-background.png": "/static/media/tea-background.0b6cd231.png",
+    "static/media/wave.png": "/static/media/wave.ef06dce0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.450c958e.js",
+    "static/js/3.d4f844fa.chunk.js",
+    "static/css/main.e97e1768.chunk.css",
+    "static/js/main.ab06350a.chunk.js"
+  ]
+}
